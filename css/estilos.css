@@ -96,7 +96,12 @@ nav ul li a:hover {
     margin-top: 15px;
     border-radius: 8px;
 }
-
+.imagem3 {
+    width: 25%;
+    max-width: 125px;
+    margin-top: 15px;
+    border-radius: 10px;
+}
 
 .video {
     width: 100%;
